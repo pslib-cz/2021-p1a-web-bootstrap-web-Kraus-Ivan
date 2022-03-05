@@ -10,7 +10,7 @@ Požadavky:
 * ? všechny stránky budou fungovat na telefonu, tabletu a desktopu
 * NE použitý carousel
 * ANO použitý jumbotron (V Bootstrap5 je to tzv Hero)
-* NE vytvořený formulář (kontaktní, registrační)
+* ANO vytvořený formulář (kontaktní, registrační)
 * ANO sticky záhlaví stránky s menu
 * ANO zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
 * ? použití prvku media
