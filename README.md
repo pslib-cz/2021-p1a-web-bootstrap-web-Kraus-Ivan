@@ -8,11 +8,11 @@ Požadavky:
 * ANO alespoň 3 vzájemně prolinkované stránky
 * ANO jedna galerie s obrázky (např. pomocí prvků typu Card)
 * ? všechny stránky budou fungovat na telefonu, tabletu a desktopu
-* NE použitý carousel
+* ANO použitý carousel
 * ANO použitý jumbotron (V Bootstrap5 je to tzv Hero)
 * ANO vytvořený formulář (kontaktní, registrační)
 * ANO sticky záhlaví stránky s menu
 * ANO zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
 * ? použití prvku media
-* ? grafika v rozumné velikosti (px, kB)
+* NE grafika v rozumné velikosti (px, kB)
 * ? modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
