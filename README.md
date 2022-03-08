@@ -13,6 +13,6 @@ Požadavky:
 * ANO vytvořený formulář (kontaktní, registrační)
 * ANO sticky záhlaví stránky s menu
 * ANO zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
-* ? použití prvku media
+* ANO použití prvku media
 * NE grafika v rozumné velikosti (px, kB)
-* ? modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
+* ANO modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
